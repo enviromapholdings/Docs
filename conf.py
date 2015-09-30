@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'EnviroMap Documentation'
+project = 'EnviroMap'
 copyright = '2015, ZJ Palasz'
 author = 'ZJ Palasz'
 
@@ -201,7 +201,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'EnviroMapDocumentationdoc'
+htmlhelp_basename = 'EnviroMapdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -223,7 +223,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'EnviroMapDocumentation.tex', 'EnviroMap Documentation Documentation',
+  (master_doc, 'EnviroMap.tex', 'EnviroMap Documentation',
    'ZJ Palasz', 'manual'),
 ]
 
@@ -253,7 +253,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'enviromapdocumentation', 'EnviroMap Documentation Documentation',
+    (master_doc, 'enviromap', 'EnviroMap Documentation',
      [author], 1)
 ]
 
@@ -267,8 +267,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'EnviroMapDocumentation', 'EnviroMap Documentation Documentation',
-   author, 'EnviroMapDocumentation', 'One line description of project.',
+  (master_doc, 'EnviroMap', 'EnviroMap Documentation',
+   author, 'EnviroMap', 'One line description of project.',
    'Miscellaneous'),
 ]
 
