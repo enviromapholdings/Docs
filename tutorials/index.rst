@@ -4,5 +4,5 @@ Tutorials
 .. toctree::
    :titlesonly:
 
-   tutorial1
+   copy-collection
    tutorial2
