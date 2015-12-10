@@ -16,8 +16,8 @@ Topics
    :titlesonly:
    
    overview/index
-   getting-started-user/index
-   getting-started-admin/index
+   getting-started-analyst/index
+   getting-started-administrator/index
    features/index
    tutorials/index
    advanced/index

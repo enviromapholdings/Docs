@@ -1,5 +1,5 @@
-Getting Started - Admin
----------------
+Getting Started - Administrator
+--------------------------------
 
 .. toctree::
    :titlesonly:
