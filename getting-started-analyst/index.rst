@@ -5,9 +5,9 @@ Getting Started - Analyst
    :titlesonly:
    :numbered:
 
-   1-log-in
-   2-setup-dashboard
-   3-view-and-print-samples
-   4-print-barcodes
-   5-submit-collection
+   log-in
+   setup-dashboard
+   view-and-print-samples
+   print-barcodes
+   submit-collection
    
