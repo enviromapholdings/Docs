@@ -1,2 +1,2 @@
-7. Add Groups
+Create a Sampling Plan
 ===============================

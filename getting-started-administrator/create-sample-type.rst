@@ -1,2 +1,2 @@
-10. Add a Sampling Plan
+Create a Sample Type
 ===============================

@@ -1,2 +1,2 @@
-5. Add Users
+Create a Collection
 ===============================

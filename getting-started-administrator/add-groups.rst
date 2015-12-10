@@ -1,2 +1,2 @@
-3. Add Sample Types
+Add Groups
 ===============================
