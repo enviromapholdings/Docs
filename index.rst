@@ -12,6 +12,10 @@ Topics
 .. toctree::
    :titlesonly:
    
-   getting-started/index
+   overview/index
+   getting-started-user/index
+   getting-started-admin/index
+   features/index
    tutorials/index
+   advanced/index
 
