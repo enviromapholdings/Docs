@@ -1,2 +1,2 @@
-2. View & Print Samples
+View & Print Samples
 ===============================

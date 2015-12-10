@@ -1,2 +1,2 @@
-5. Submit Collection
+Submit Collection
 ===============================

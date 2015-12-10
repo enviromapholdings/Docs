@@ -1,2 +1,2 @@
-2. Setup Dashboard
+Setup Dashboard
 ===============================

@@ -3,6 +3,7 @@ Getting Started - Analyst
 
 .. toctree::
    :titlesonly:
+   :numbered:
 
    1-log-in
    2-setup-dashboard

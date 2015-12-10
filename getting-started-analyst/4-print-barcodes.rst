@@ -1,2 +1,2 @@
-4. Print Barcodes
+Print Barcodes
 ===============================
