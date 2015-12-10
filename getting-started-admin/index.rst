@@ -1,4 +1,4 @@
-Advanced
+Getting Started - Admin
 ---------------
 
 .. toctree::

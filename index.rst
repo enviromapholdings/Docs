@@ -6,6 +6,9 @@
 Welcome to EnviroMap's documentation!
 ===================================================
 
+.. note::
+    The following is a work in progress.
+
 Topics
 ------
 
