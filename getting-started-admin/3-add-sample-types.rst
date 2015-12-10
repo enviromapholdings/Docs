@@ -1,2 +1,2 @@
-Logging Out
+3. Add Sample Types
 ===============================

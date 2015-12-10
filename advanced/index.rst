@@ -4,4 +4,5 @@ Advanced
 .. toctree::
    :titlesonly:
 
-   topic-one
+   terminology-and-architecture
+   user-permissions

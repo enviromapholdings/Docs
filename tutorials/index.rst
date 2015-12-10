@@ -4,5 +4,4 @@ Tutorials
 .. toctree::
    :titlesonly:
 
-   copy-collection
-   tutorial2
+   screenshot-example
