@@ -58,10 +58,10 @@ Old Password:
 	Enter the password you just logged in with.
 	
 New Password:
-	Enter what youw want your new password to be.
+	Enter what you want your new password to be.
 
 Confirm Password:
-	Re-enter what your new password.
+	Re-enter what you want your new password to be (must be the same as what you entered for **New Password** above).
 
 .. note::
 	
