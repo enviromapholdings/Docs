@@ -4,7 +4,6 @@ Log In
 Logging in is required to access any of EnviroMap's features. The first time you log in you will be required to agree to the *Terms of Use* and reset your password. Every subsequent login will simply direct you to your personal *Dashboard*. Please see :doc:`/getting-started-analyst/setup-dashboard` for more information on how to configure your dashboard.  
 
 **In this article:**
-
 	- `Logging In`_
 	- `Agreeing to the Terms of Use`_
 	- `Resetting your Password`_
@@ -57,11 +56,11 @@ Enter the follow fields:
 
 :Old Password: Enter the password you just logged in with.
 :New Password: Enter what youw want your new password to be.
-:Confirm Password: Re-enter what you want your new password to be.
+:Confirm Password: Re-enter what your new password.
 
 .. note::
 	
-	Depending on your company's policies, there may be password requirements that you must meet. If your new password does not meet these policies you will see an error message that will provide all requirements for the new password.
+	Depending on your company's policies, there may be password requirements that you must meet. If your new password does not meet these policies you will see an error message that will provide you with the miniumum requirements for your new password.
 
 .. attention::
 	
