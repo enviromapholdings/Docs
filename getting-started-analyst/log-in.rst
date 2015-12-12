@@ -1,7 +1,7 @@
 Log In
 ===============================
 
-Logging in is required to access any of EnviroMap's features. The first time you log in you will be required to agree to the *Terms of Use* and reset your password. Every subsequent login will simply direct you to your personal *Dashboard*. Please see :doc:`/getting-started-analyst/setup-dashboard` for more information on how to configure your dashboard.  
+Logging in is required to access any of EnviroMap's features. The first time you log in you will be required to agree to the *Terms of Use* and reset your password. Every subsequent login will simply direct you to your personal *Dashboard* page. Please see :doc:`/getting-started-analyst/setup-dashboard` for more information on how to configure your dashboard.  
 
 **In this article:**
 	- `Logging In`_
@@ -61,7 +61,7 @@ New Password:
 	Enter what you want your new password to be.
 
 Confirm Password:
-	Re-enter what you want your new password to be (must be the same as what you entered for **New Password** above).
+	Re-enter what you want your new password to be (this must be the same as what you entered for *New Password* above).
 
 .. note::
 	
