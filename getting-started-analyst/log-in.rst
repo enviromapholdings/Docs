@@ -54,9 +54,14 @@ Resetting your Password
 
 Enter the follow fields:
 
-:Old Password: Enter the password you just logged in with.
-:New Password: Enter what youw want your new password to be.
-:Confirm Password: Re-enter what your new password.
+Old Password:
+	Enter the password you just logged in with.
+	
+New Password:
+	Enter what youw want your new password to be.
+
+Confirm Password:
+	Re-enter what your new password.
 
 .. note::
 	
