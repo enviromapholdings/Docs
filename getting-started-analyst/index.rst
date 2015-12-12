@@ -5,7 +5,7 @@ The following steps will walk you through getting started using EnviroMap as an 
 
 .. toctree::
    :titlesonly:
-   :numbered:
+   :numbered: 1
 
    log-in
    setup-dashboard
