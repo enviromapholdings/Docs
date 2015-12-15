@@ -13,7 +13,7 @@ Label printing is performed within the calendar widget from your dashboard. If y
 Printing Labels to a Remote Printer
 --------------------------------------
 
-Right click on the collection you would like to print. From the context menu, select *Print Barcodes*.
+Right click on the collection that has the samples you would like to print. From the context menu, select *Print Barcodes*.
 
 .. attention::
 
@@ -52,13 +52,12 @@ Click the **Print** button.
 
 .. tip::
 	
-	Do you want to see something different on your label? Your labels can be customized by an administrator. Please contact your administrator or support@enviromap.com if you need assistance setting this up.  
-
+	Do you want to see something different on your label? Your labels can be customized by an administrator. Please contact your administrator or support@enviromap.com if you need help setting this up.  
 
 Printing Labels to a Local Printer
 ------------------------------------
 
-Right click on the collection you would like to print. From the context menu, select *Print Barcodes*.
+Right click on the collection that has the samples you would like to print. From the context menu, select *Print Barcodes*.
 
 .. attention::
 
@@ -99,13 +98,17 @@ After the file download completes, double click the file to send the labels to y
 
 .. tip::
 	
-	Do you want to see something different on your label? Your labels can be customized by an administrator. Please contact your administrator or support@enviromap.com if you need assistance setting this up.  
+	Do you want to see something different on your label? Your labels can be customized by an administrator. Please contact your administrator or support@enviromap.com if you need help setting this up.  
 
 
 Printing Labels from Multiple Collections
 ------------------------------------------
 
-Begin by left clicking on two or more collections.
+.. attention::
+
+	This method only works for collections that already have confirmed samples. If you haven't already confirmed the samples via the *Select Samples* popup, then this method will not work for you.
+
+Begin by left clicking on two or more collections that contain samples you want to print.
 
 .. tip::
 
@@ -133,7 +136,11 @@ Follow one of the following to finish printing your labels:
 Printing All Labels
 --------------------
 
-Right click on a day with mutiple collections and from the context menu select **Print All Barcodes**.
+.. attention::
+
+	This method only works for collections that already have confirmed samples. If you haven't already confirmed the samples via the *Select Samples* popup, then this method will not work for you.
+
+Right click on a day with mutiple collections. From the context menu, select **Print All Barcodes**.
 
 .. attention::
 
