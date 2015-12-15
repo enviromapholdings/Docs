@@ -1,7 +1,7 @@
 Overview
 =============
 
-EnviroMap is a web based sample management application. It is designed to work for both large multi-facility and smaller single-facility locations. Feel free to browse the support documentation to learn more about EnviroMap. If you have any questions or would like to schedule a demo please contact support@enviromap.com.  
+EnviroMap is a web based sample management application. It is designed to help with everything from scheduling to reporting, while integrating seemlessly with any LIMS system that your company may use. Feel free to browse the support documentation to learn more about EnviroMap. If you have any questions or would like to schedule a demo please contact support@enviromap.com.  
 
 Key Features
 --------------
