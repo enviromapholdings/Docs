@@ -21,10 +21,10 @@ Right click on the collection you would like to print. From the context menu, se
 
 .. note::
 
-	If this is the first time this collection is opened, you will first need to confirm the samples. Click the **Save Changes** on the *Select Samples* popup to continue. See :doc:`/getting-started-analyst/view-and-print-samples` for more information.
+	If this is the first time this collection has been opened, you will first need to confirm the samples. Click the **Save Changes** button on the *Select Samples* popup to continue. See :doc:`/getting-started-analyst/view-and-print-samples` for more information.
 
-Selecting Samples and Printer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Selecting Samples and Remote Printer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In the popup window check the samples you would like to print.
 
@@ -32,7 +32,7 @@ In the popup window check the samples you would like to print.
 
 	Screenshot Placeholder: Show popup window with samples to select
 
-From the **Print Per** dropdown, select if you would like to print per Sample or Test.
+From the **Print Per** dropdown, select if you would like to print per *Sample* or *Test*.
 
 From the **Printer** dropdown, select the printer you would like to print to.
 
@@ -52,7 +52,7 @@ Click the **Print** button.
 
 .. tip::
 	
-	Do you want to see something different on your label? Your labels can be customized by an administrator. Please contact support@enviromap.com if you need assistance setting this up.  
+	Do you want to see something different on your label? Your labels can be customized by an administrator. Please contact your administrator or support@enviromap.com if you need assistance setting this up.  
 
 
 Printing Labels to a Local Printer
@@ -66,7 +66,7 @@ Right click on the collection you would like to print. From the context menu, se
 
 .. note::
 
-	If this is the first time this collection is opened, you will first need to confirm the samples. Click the **Save Changes** on the *Select Samples* popup to continue. See :doc:`/getting-started-analyst/view-and-print-samples` for more information.
+	If this is the first time this collection has been opened, you will first need to confirm the samples. Click the **Save Changes** button on the *Select Samples* popup to continue. See :doc:`/getting-started-analyst/view-and-print-samples` for more information.
 
 Selecting Samples and Local Printer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -77,7 +77,7 @@ In the popup window check the samples you would like to print.
 
 	Screenshot Placeholder: Show popup window with samples to select
 
-From the **Print Per** dropdown, select if you would like to print per Sample or Test.
+From the **Print Per** dropdown, select if you would like to print per *Sample* or *Test*.
 
 From the **Printer** dropdown, select *Save to File*.
 
@@ -91,7 +91,7 @@ Click the **Save** button.
 
 	Screenshot Placeholder: Show Save button highlighted
 
-After the file downloads, double click it to send the labels to your local printer.
+After the file download completes, double click the file to send the labels to your local printer.
 
 .. attention::
 
@@ -99,7 +99,7 @@ After the file downloads, double click it to send the labels to your local print
 
 .. tip::
 	
-	Do you want to see something different on your label? Your labels can be customized by an administrator. Please contact support@enviromap.com if you need assistance setting this up.  
+	Do you want to see something different on your label? Your labels can be customized by an administrator. Please contact your administrator or support@enviromap.com if you need assistance setting this up.  
 
 
 Printing Labels from Multiple Collections
@@ -109,7 +109,7 @@ Begin by left clicking on two or more collections.
 
 .. tip::
 
-	Try not to move your moouse when selecting a collection. Try to click on the collection without clicking on the collection's text.
+	Having trouble selecting a collection? When selecting the collection, try clicking on the collection's text and keeping your mouse still.
 
 .. attention::
 
@@ -119,7 +119,7 @@ When ready to print, right click on one of the selected collections and from the
 
 .. attention::
 
-	Depending on the size of your labels, your printer may not have enough memory to print them all at once. If you notice not all your labels are printing, try printing them one collection at a time using either `Printing Labels to a Remote Printer`_ or `Printing Labels to a Local Printer`_. 
+	Depending on the size of your labels, your printer may not have enough memory to print them all at once. If you notice all your labels are not printing, try printing them one collection at a time using either `Printing Labels to a Remote Printer`_ or `Printing Labels to a Local Printer`_. 
 
 .. attention::
 
@@ -137,7 +137,7 @@ Right click on a day with mutiple collections and from the context menu select *
 
 .. attention::
 
-	Depending on the size of your labels, your printer may not have enough memory to print them all at once. If you notice not all your labels are printing, try printing them one collection at a time using either `Printing Labels to a Remote Printer`_ or `Printing Labels to a Local Printer`_. 
+	Depending on the size of your labels, your printer may not have enough memory to print them all at once. If you notice all your labels are not printing, try printing them one collection at a time using either `Printing Labels to a Remote Printer`_ or `Printing Labels to a Local Printer`_. 
 	
 .. attention::
 
