@@ -6,14 +6,14 @@ Please note, all documentation is public and available to everyone. Do **not** i
 
 ## Document Structure
 
-1. Place title on first line
+1. Place the page title on first line
 
   ```
   Page title
   ==============
   ```
 
-2. Include a summary immediately following title
+2. Include a summary immediately following the page title
 3. If there is more than one section, include an **In This Article** list
 
   ```
@@ -31,7 +31,7 @@ Please note, all documentation is public and available to everyone. Do **not** i
   -----------
   ```
 
-5. Include the steps / article for the section
+5. Finally include the steps or article for each section
 
 ## Document Standards
 - **Bold** all button names
