@@ -1,7 +1,7 @@
 Requirements
 =============
 
-The following lists the requirements for the various applications that make up EnviroMap. If you have any questions please contact support@enviromap.com.  
+This document lists the requirements for the various applications that make up EnviroMap. If you have any questions please contact support@enviromap.com.  
 
 **In this article:**
 	- `EnviroMap Application Requirements`_
