@@ -52,7 +52,7 @@ Read the *Terms of Use*, then click the **Accept** button to continue.
 Resetting your Password
 ---------------------------
 
-Enter the follow fields:
+Enter the following fields:
 
 Old Password:
 	Enter the password you just logged in with.

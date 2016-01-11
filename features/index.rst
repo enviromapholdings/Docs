@@ -4,4 +4,4 @@ Features
 .. toctree::
    :titlesonly:
 
-   topic-one
+   dashboard/index
