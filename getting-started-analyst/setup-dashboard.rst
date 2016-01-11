@@ -4,8 +4,8 @@ Setup Dashboard
 Dashboards consist of widgets that are selected and customized by each user. The following articles describe how to setup your dashboard for initial use, for a more in depth look at using and customizing your dashboard, see :doc:`/features/dashboard/index`. 
 
 **In this article:**
-    - `Adding a Calendar Widget`_
-    - `Customizing Dashboard Layout`_
+	- `Adding a Calendar Widget`_
+	- `Customizing Dashboard Layout`_
 	- `Adding Dashboard Pages`_
     
 Adding a Calendar Widget
@@ -75,12 +75,14 @@ Choose a layout from the dropdown menu.
 
 Each layout specifies the number columns and the width of each column, for example:
 
+
 \- \- \- \-
     Represents a four column dashboard, with each of equal width
     
 .. attention::
 
 	Screenshot Placeholder: 4 column layout
+
     
 \- \-\- \-
     Represets a three column dashboard, with the middle column twice as large as the left and right columns
@@ -88,6 +90,7 @@ Each layout specifies the number columns and the width of each column, for examp
 .. attention::
 
 	Screenshot Placeholder: 3 column layout
+
 
  \-\- \-\-
     Represents a two column dashboard, both of equal width

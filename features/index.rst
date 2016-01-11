@@ -1,5 +1,7 @@
 Features
----------------
+=========
+
+List of features
 
 .. toctree::
    :titlesonly:
