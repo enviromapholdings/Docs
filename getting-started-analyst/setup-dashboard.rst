@@ -11,7 +11,7 @@ Dashboards consist of widgets that are selected and customized by each user. The
 Adding a Calendar Widget
 -------------------------
 
-If your dashboard is empty, click on either of the **Click to Add Widget** boxes.
+If your dashboard is empty, click on either of the *Click to Add Widget* boxes.
 
 .. attention::
 
@@ -75,7 +75,6 @@ Choose a layout from the dropdown menu.
 
 Each layout specifies the number columns and the width of each column, for example:
 
-
 \- \- \- \-
     Represents a four column dashboard, with each of equal width
     
@@ -83,7 +82,6 @@ Each layout specifies the number columns and the width of each column, for examp
 
 	Screenshot Placeholder: 4 column layout
 
-    
 \- \-\- \-
     Represets a three column dashboard, with the middle column twice as large as the left and right columns
 
@@ -91,8 +89,7 @@ Each layout specifies the number columns and the width of each column, for examp
 
 	Screenshot Placeholder: 3 column layout
 
-
- \-\- \-\-
+\-\- \-\-
     Represents a two column dashboard, both of equal width
 
 .. attention::
