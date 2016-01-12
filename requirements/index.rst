@@ -11,7 +11,7 @@ The following contains the requirements for the various applications that make u
 
 EnviroMap Application Requirements
 ------------------------------------
-1. Browser running Internet Explorer 10 (or greater), Chrome, or Firefox
+1. Browser running Internet Explorer 11, Chrome, or Firefox
 
 Printer Requirements
 --------------------------
