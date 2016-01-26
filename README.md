@@ -71,7 +71,7 @@ Please note, all documentation is public and available to everyone. Do **not** i
 
 - Use Chrome
 - Only include the browser window; exclude address bar, bookmarks, etc
-- Use the same data set: https://doc-enviromap.azurewebsites.net
+- Use the same data set: https://docs-enviromap.azurewebsites.net
 - Use **TBD: image annotation program** for all image annotations
 - Use black arrows for **TBD**
 - Use **TBD: color** highlight boxes for **TBD**
