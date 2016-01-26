@@ -72,7 +72,7 @@ Please note, all documentation is public and available to everyone. Do **not** i
 - Use Chrome
 - Only include the browser window; exclude address bar, bookmarks, etc
 - Use the same data set: https://docs-enviromap.azurewebsites.net
-- Use **TBD: image annotation program** for all image annotations
+- Use [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj/related)  for all image annotations
 - Use black arrows for **TBD**
 - Use **TBD: color** highlight boxes for **TBD**
 - Crop & zoom screenshots of popup windows
