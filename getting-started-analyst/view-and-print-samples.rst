@@ -3,9 +3,9 @@ View & Print Samples
 Viewing Samples within a Collection is performed within the calendar widget from your dashboard. If you haven't already setup your dashboard please see :doc:`/getting-started-analyst/setup-dashboard`.
 
 **In this Article**
-    _`Viewing Samples within a Collection`_
-    _`Adding or Editing Samples for a Collection`_
-    _`Printing Samples for a Collection`_
+    -`Viewing Samples within a Collection`_
+    -`Adding or Editing Samples for a Collection`_
+    -`Printing Samples for a Collection`_
 
 Viewing Samples within a Collection
 ------------------------------------
@@ -18,7 +18,7 @@ Right click on the collection that you would like to View Samples for. From the 
     
 .. note::
 
-	If this is the first time this collection has been opened, you will first need to confirm the samples. Click the **Save Changes** button on the *Select Samples* popup to continue, or proceed to _`Adding or Editing Samples for a Collection`_ to make any changes.
+	If this is the first time this collection has been opened, you will first need to confirm the samples. Click the **Save Changes** button on the *Select Samples* popup to continue, or proceed to -`Adding or Editing Samples for a Collection`_ to make any changes.
 
 A window will popup, showing all of the samples defined for this collection. You can view their placement on the building map by selecting the *Show Maps* button on the lower right, and can revert back to the sample list view by selecting the button once more, which will now be labeled *Show Samples*
 
