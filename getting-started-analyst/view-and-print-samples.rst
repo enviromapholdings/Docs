@@ -3,9 +3,9 @@ View & Print Samples
 Viewing Samples within a Collection is performed within the calendar widget from your dashboard. If you haven't already setup your dashboard please see :doc:`/getting-started-analyst/setup-dashboard`.
 
 **In this Article**
-    -`Viewing Samples within a Collection`_
-    -`Adding or Editing Samples for a Collection`_
-    -`Printing Samples for a Collection`_
+    - `Viewing Samples within a Collection`_
+    - `Adding or Editing Samples for a Collection`_
+    - `Printing Samples for a Collection`_
 
 Viewing Samples within a Collection
 ------------------------------------
