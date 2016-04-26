@@ -13,9 +13,7 @@ Logging In
 
 Open your browser and navigate to your company's EnviroMap website.
 
-.. attention::
-	
-	Screenshot Placeholder: Show Login Screen
+.. image:: log-in/_static/username-password.png
 
 
 Enter your **Login** and **Password**.
@@ -28,25 +26,19 @@ Enter your **Login** and **Password**.
 	
 	If you forget your password, any user with an *Administrator* account should be able to reset it for you. Alternatively, you can contact support@enviromap.com to assist you.
 
-.. attention::
-	
-	Screenshot Placeholder: Highlight Login & Password inputs
+.. image:: log-in/_static/username-password-focus.png
 	
 
 Click the **Sign In** button.
 
-.. attention::
-	
-	Screenshot Placeholder: Highlight Sign In button
+.. image:: log-in/_static/sign-in-button.png
 
 Agreeing to the Terms of Use
 -----------------------------
 
 Read the *Terms of Use*, then click the **Accept** button to continue.
 
-.. attention::
-	
-	Screenshot Placeholder: Terms of Use page, highlight accept button
+.. image:: log-in/_static/accept-terms-button.png
 
 
 Resetting your Password
@@ -67,12 +59,8 @@ Confirm Password:
 	
 	Depending on your company's policies, there may be password requirements that you must meet. If your new password does not meet these policies you will see an error message that will provide you with the miniumum requirements for your new password.
 
-.. attention::
-	
-	Screenshot Placeholder: Reset password page, highlight inputs
+.. image:: log-in/_static/reset-password-fields.png
  
 Click the **Change Password** button.
 
-.. attention::
-	
-	Screenshot Placeholder: Reset password page, highlight Change Password button
+.. image:: log-in/_static/reset-password-button.png

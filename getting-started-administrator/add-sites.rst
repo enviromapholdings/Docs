@@ -13,7 +13,7 @@ Navigating to and through the Sites and Groups
 Select the **Sites** dropdown from the navigation bar at the top, then select the **Sites and Groups** item from the list.
 Navigate through the Sites and Groups Tree by selecting any Group with a folder icon to view all Sites and Groups contained within that Group.
 
-Selecting the Parent Group for the new Sites to be added
+Selecting the Parent Group to which the new Sites will be added
 ----------------------------------------------------------
 
 To add a site, you will select the group you wish to add the new site to, then select the menu icon at the top of the Sites and Sites tree.

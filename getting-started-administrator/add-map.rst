@@ -3,7 +3,7 @@ Add a Map
 Detailing the addition of a Map to the Sites and Groups tree.
 
 **In this Article**
-    - `Navigating to and through the Sites and Groups`_
+    - `Navigating to and through the Sites and Groups Page`_
     - `Placing the new Map in the correct group`_
     - `Using the Upload Map dialog`_
 
