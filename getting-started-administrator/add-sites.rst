@@ -7,7 +7,7 @@ Detailing the addition of Sites to the Sites and Groups tree.
     - `Selecting the Parent Group to which the new Sites will be added`_
     - `Using the Create Sites dialog`_
 
-Navigating to and through the Sites and Sites
+Navigating to and through the Sites and Groups
 -----------------------------------------------
 
 Select the **Sites** dropdown from the navigation bar at the top, then select the **Sites and Groups** item from the list.
@@ -18,9 +18,7 @@ Selecting the Parent Group for the new Sites to be added
 
 To add a site, you will select the group you wish to add the new site to, then select the menu icon at the top of the Sites and Sites tree.
 
-.. attention::
-
-	Screenshot Placeholder: Selected group with menu open at the top of the site tree
+.. image:: create-sites/_static/selected-group.png
     
 .. note::
 
@@ -37,9 +35,7 @@ Enter the name(s) of the Site(s) you wish to add to the parent group, as well as
 
 	If you wish to add multiple Sites, separate individual names for Sites by placing them on a new line with the return or enter key.
 
-.. attention::
-
-	Screenshot Placeholder: Create Sites dialog with a site name, risk level and a property or two filled in.
+.. image:: create-sites/_static/create-sites.png
     
 After all relevant Information has been added, click or tap **Save Changes** to finalize these sites. You may also click or tap **Cancel** to stop adding new sites.
     

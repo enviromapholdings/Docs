@@ -7,7 +7,7 @@ Detailing the addition of a Map to the Sites and Groups tree.
     - `Placing the new Map in the correct group`_
     - `Using the Upload Map dialog`_
 
-Navigating to and through the Sites and Sites
+Navigating to and through the Sites and Groups Page
 -----------------------------------------------
 
 Select the **Sites** dropdown from the navigation bar at the top, then select the **Sites and Groups** item from the list.
@@ -19,10 +19,6 @@ Placing the new Map in the correct group
 
 To add a Map, select the image file on your local machine, and then drag the file to the group you wish that image to be a map for.
 
-.. attention::
-
-	Screenshot Placeholder: Drag and drop in progress, hovering over the group, showing the outline around the group
-    
 .. note::
 
 	If the Group already has a map associated with it, this new map will replace the old one.
@@ -34,9 +30,7 @@ Using the Upload Map dialog
 
 Enter the name the map should be known by.
 
-.. attention::
-
-	Screenshot Placeholder: Upload Map dialog with a decription filled in.
+.. image:: create-map/_static/upload-map.png
     
 After all relevant Information has been added, click or tap **Save Changes** to upload this map. You may also click or tap **Cancel** to stop uploading this map.
     

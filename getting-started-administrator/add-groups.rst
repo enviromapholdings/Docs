@@ -18,9 +18,7 @@ Selecting the Parent Group for the new Groups to be added
 
 To add a group, you will select the group you wish to add the new group to, then select the menu icon at the top of the Sites and Groups tree.
 
-.. attention::
-
-	Screenshot Placeholder: Selected group with menu open at the top of the site tree
+.. image:: create-group/_static/selected-group.png
     
 .. note::
 
@@ -33,8 +31,6 @@ Using the Create Groups dialog
 
 Enter the name(s) of the Group(s) you wish to add to the parent group, and then click or tap **Save Changes** to finalize these groups. You may also click or tap **Cancel** to stop adding new groups.
 
-.. attention::
-
-	Screenshot Placeholder: Create Groups dialog with a group name filled in.
+.. image:: create-group/_static/create-group.png
     
 The new groups should appear in the parent group that was selected earlier. 
