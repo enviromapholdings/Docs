@@ -34,7 +34,7 @@ Please note, all documentation is public and available to everyone. Do **not** i
 5. Finally include the steps or article for each section
 
 ## Document Standards
-- **Bold** all button names
+- **Bold** all button names & navigation menu items
   
   ```
   **Button name**
@@ -71,7 +71,7 @@ Please note, all documentation is public and available to everyone. Do **not** i
 
 - Use Chrome
 - Only include the browser window; exclude address bar, bookmarks, etc
-- Use the same data set: https://docs-enviromap.azurewebsites.net
+- Use the same data set: https://demo.enviromap.com, use the Blacksburg, VA location
 - Use [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj/related)  for all image annotations
 - Use red arrows for dropdown menu and context menu selection 
 - Red circles for buttons
