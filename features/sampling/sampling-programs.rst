@@ -1,2 +1,2 @@
-Sampling Profiles
+Sampling Programs
 ==================
