@@ -7,3 +7,4 @@ List of features
    :titlesonly:
 
    dashboard/index
+   sampling/index
