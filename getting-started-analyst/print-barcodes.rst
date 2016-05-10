@@ -15,9 +15,7 @@ Printing Labels to a Remote Printer
 
 Right click on the collection that has the samples you would like to print. From the context menu, select *Print Barcodes*.
 
-.. attention::
-
-	Screenshot Placeholder: Context menu with Print Barcodes visible
+.. image:: printing-labels\_static\print-barcode-context.png
 
 .. note::
 
@@ -28,9 +26,7 @@ Selecting Samples and Remote Printer
 
 In the popup window check the samples you would like to print.
 
-.. attention::
-
-	Screenshot Placeholder: Show popup window with samples to select
+.. image:: printing-labels\_static\print-barcode-modal.png
 
 From the **Print Per** dropdown, select if you would like to print per *Sample* or *Test*.
 
@@ -40,15 +36,11 @@ From the **Printer** dropdown, select the printer you would like to print to.
 	
 	Your printer will be setup during the initial EnviroMap install, if you don't see your printer listed you can contact support@enviromap.com. 
 
-.. attention::
+.. image:: printing-labels\_static\print-barcode-modal-dropdown-focus.png
 
-	Screenshot Placeholder: Show printer list
+Click the **Save** button.
 
-Click the **Print** button.
-
-.. attention::
-
-	Screenshot Placeholder: Show Print button highlighted
+.. image:: printing-labels\_static\print-barcode-modal-save-button.png
 
 .. tip::
 	
@@ -59,9 +51,7 @@ Printing Labels to a Local Printer
 
 Right click on the collection that has the samples you would like to print. From the context menu, select *Print Barcodes*.
 
-.. attention::
-
-	Screenshot Placeholder: Context menu with Print Barcodes visible
+.. image:: printing-labels\_static\print-barcode-context.png
 
 .. note::
 
@@ -72,29 +62,19 @@ Selecting Samples and Local Printer
 
 In the popup window check the samples you would like to print.
 
-.. attention::
-
-	Screenshot Placeholder: Show popup window with samples to select
+.. image:: printing-labels\_static\print-barcode-modal.png
 
 From the **Print Per** dropdown, select if you would like to print per *Sample* or *Test*.
 
 From the **Printer** dropdown, select *Save to File*.
 
-.. attention::
-
-	Screenshot Placeholder: Show printer list
+.. image:: printing-labels\_static\print-barcode-modal-dropdown-focus.png
 
 Click the **Save** button.
 
-.. attention::
-
-	Screenshot Placeholder: Show Save button highlighted
+.. image:: printing-labels\_static\print-barcode-modal-save-button.png
 
 After the file download completes, double click the file to send the labels to your local printer.
-
-.. attention::
-
-	Screenshot Placeholder: File to open / print
 
 .. tip::
 	
