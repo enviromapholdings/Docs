@@ -20,7 +20,7 @@ If your dashboard is empty, click on either of the *Click to Add Widget* boxes.
 
 If your dashboard already has widgets, scroll to the bottom of the page, then click on the *Click to Add Widget* box.
 
-.. image:: setup-dashboard\_static\add-widget-highlight.png
+.. image:: setup-dashboard/_static/add-widget-highlight.png
 
 In the pop-up dialog, fill in the following fields:
 
@@ -61,11 +61,11 @@ Customizing Dashboard Layout
 
 Click the page layout button in the top right of the dashboard page.
 
-.. image:: setup-dashboard\_static\dashboard-column-layout.png
+.. image:: setup-dashboard/_static/dashboard-column-layout.png
     
 Choose a layout from the dropdown menu. 
 
-.. image:: setup-dashboard\_static\dashboard-layout-dropdown.png
+.. image:: setup-dashboard/_static/dashboard-layout-dropdown.png
 
 Each layout specifies the number columns and the width of each column, for example:
 
@@ -95,15 +95,15 @@ Adding Dashboard Pages
 
 Click the **Add Page** button in the top right of the dashboard.
 
-.. image:: setup-dashboard\_static\dashboard-add-page-focus.png
+.. image:: setup-dashboard/_static/dashboard-add-page-focus.png
 
 Click on the *Click to Customize* text in the top left of the new dashboard page.
 
-.. image:: setup-dashboard\_static\dashboard-title-highlight.png
+.. image:: setup-dashboard/_static/dashboard-title-highlight.png
 
 Enter in a title for this new dashboard page, when finished, press the enter key or click anywhere on the dashboard to save the new title.
 
-.. image:: setup-dashboard\_static\dashboard-title-customize.png
+.. image:: setup-dashboard/_static/dashboard-title-customize.png
     
 To navigate your various dashboard pages, use the **Previous** and **Next** buttons.
 
