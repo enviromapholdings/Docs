@@ -26,7 +26,7 @@ EnviroMap Cloud Printer Application Requirements
 2. Microsoft .NET Framework 4.5 or greater installed
 3. Account with local or domain Administrator access
 4. TCP Port 2011 open for communication with our static IP
-5. TeamViewer 10 Host or QuickSupport installed (required for remote installation only)
+5. TeamViewer 10 Host (http://get.teamviewer.com/enviromap) or QuickSupport (http://download.teamviewer.com/download/version_10x/TeamViewerQS.exe) installed (required for remote installation only)
 
 .. _Zebra Test Form Application:
 
