@@ -35,8 +35,6 @@ EnviroMap Cloud Printer Application Requirements
 
 EnviroMap Local Printer Application Requirements
 -------------------------------------------
-Utilizes Zebra Test Form Application (©2016 ZIH Corp)
-
 .. attention::
 
 	EnviroMap Local Printer Application must be installed for each user on each PC that will need to print
@@ -44,5 +42,5 @@ Utilizes Zebra Test Form Application (©2016 ZIH Corp)
 1. Server with at least Microsoft Windows Server 2008 R2 installed or PC with at least Microsoft Windows 7 installed (Windows 8.x and 10 work as well)
 2. EnviroMap Local Printer Application Installation Walkthrough downloaded (http://print.managementsolutionsofva.com/downloads/HowtoInstallEnviroMapLocalPrintClientUSB.pdf)
 3. Zebra Setup Utilities downloaded and installed (http://print.managementsolutionsofva.com/downloads/zsu-1191192.exe)
-4. EnviroMap Local Printer Application downloaded and installed (http://print.managementsolutionsofva.com/downloads/zebraprinter.zip)
+4. EnviroMap Local Printer Application* downloaded and installed (http://print.managementsolutionsofva.com/downloads/zebraprinter.zip) *Utilizes Zebra Test Form Application (©2016 ZIH Corp)
 5. If remote support is necessary, TeamViewer 10 Host downloaded and installed (http://get.teamviewer.com/enviromap) or TeamViewer 10 QuickSupport downloaded and running (http://download.teamviewer.com/download/version_10x/TeamViewerQS.exe). The 9-digit TeamViewer ID and password must also be provided to support@enviromap.com
