@@ -26,10 +26,11 @@ EnviroMap Cloud Printer Application Requirements
 2. Microsoft .NET Framework 4.5 or greater installed
 3. Local or domain Administrator account with password that will not change
 4. TCP Port 2011 open for communication with our cloud server's static IP
+5a. Test
 5. EnviroMap Cloud Printer Application Installation Walkthrough downloaded (http://print.managementsolutionsofva.com/downloads/HowtoInstallEnviroMapCloudPrinterApplication.pdf)
-5. Zebra Setup Utilities downloaded and installed (http://print.managementsolutionsofva.com/downloads/zsu-1191192.exe)
-6. EnviroMap Cloud Printer Application downloaded and installed (http://print.managementsolutionsofva.com/Downloads/enviromapcloudprinter.zip)
-5. If remote support is necessary, TeamViewer 10 Host downloaded and installed (http://get.teamviewer.com/enviromap) or TeamViewer 10 QuickSupport downloaded and running (http://download.teamviewer.com/download/version_10x/TeamViewerQS.exe). The 9-digit TeamViewer ID and password must also be provided to support@enviromap.com
+6. Zebra Setup Utilities downloaded and installed (http://print.managementsolutionsofva.com/downloads/zsu-1191192.exe)
+7. EnviroMap Cloud Printer Application downloaded and installed (http://print.managementsolutionsofva.com/Downloads/enviromapcloudprinter.zip)
+8. If remote support is necessary, TeamViewer 10 Host downloaded and installed (http://get.teamviewer.com/enviromap) or TeamViewer 10 QuickSupport downloaded and running (http://download.teamviewer.com/download/version_10x/TeamViewerQS.exe). The 9-digit TeamViewer ID and password must also be provided to support@enviromap.com
 
 .. _Zebra Test Form Application:
 
