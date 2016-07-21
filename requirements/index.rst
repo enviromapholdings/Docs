@@ -8,6 +8,7 @@ The following contains the requirements for the various applications that make u
 	- `Printer Requirements`_
 	- `EnviroMap Cloud Printer Application Requirements`_
 	- `EnviroMap Local Printer Application Requirements`_
+	- `Calibration Instructions`_
 
 EnviroMap Application Requirements
 ------------------------------------
@@ -44,7 +45,8 @@ EnviroMap Local Printer Application Requirements
 3. Zebra Setup Utilities downloaded and installed (http://print.managementsolutionsofva.com/downloads/zsu-1191192.exe)
 4. EnviroMap Local Printer Application* downloaded and installed (http://print.managementsolutionsofva.com/downloads/zebraprinter.zip) *Utilizes Zebra Test Form Application (©2016 ZIH Corp)
 5. If remote support is necessary, TeamViewer 10 Host downloaded and installed (http://get.teamviewer.com/enviromap) or TeamViewer 10 QuickSupport downloaded and running (http://download.teamviewer.com/download/version_10x/TeamViewerQS.exe). The 9-digit TeamViewer ID and password must also be provided to support@enviromap.com
-.. _Zebra Test Form Application:
+
+.. _Calibration Instructions:
 
 Calibration Instructions
 --------------------------
