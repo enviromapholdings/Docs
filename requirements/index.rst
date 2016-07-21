@@ -26,7 +26,6 @@ EnviroMap Cloud Printer Application Requirements
 2. Microsoft .NET Framework 4.5 or greater installed
 3. Local or domain Administrator account with password that will not change
 4. TCP Port 2011 open for communication with our cloud server's static IP
-5a. Test
 5. EnviroMap Cloud Printer Application Installation Walkthrough downloaded (http://print.managementsolutionsofva.com/downloads/HowtoInstallEnviroMapCloudPrinterApplication.pdf)
 6. Zebra Setup Utilities downloaded and installed (http://print.managementsolutionsofva.com/downloads/zsu-1191192.exe)
 7. EnviroMap Cloud Printer Application downloaded and installed (http://print.managementsolutionsofva.com/Downloads/enviromapcloudprinter.zip)
