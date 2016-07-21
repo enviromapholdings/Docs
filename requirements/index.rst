@@ -1,5 +1,5 @@
 Requirements & Download Links
-===============================
+==============================
 
 The following contains the requirements for the various applications that make up EnviroMap. If you have any questions please contact support@enviromap.com.  
 
@@ -11,18 +11,18 @@ The following contains the requirements for the various applications that make u
 	- `Calibration Instructions`_
 
 EnviroMap Application Requirements
-------------------------------------
+-----------------------------------
 1. Microsoft Internet Explorer 11, Google Chrome, or Mozilla Firefox
 
 Printer Requirements
---------------------------
+---------------------
 1. EnviroMap Cloud Printer Application or EnviroMap Local Printer Application installed
 2. ZPL compatible printer attached to local computer via USB or by Ethernet to the LAN
 
 .. _EnviroMap Local Printer Application Requirements:
 
 EnviroMap Cloud Printer Application Requirements
----------------------------------------------------
+-------------------------------------------------
 1. Server with at least Microsoft Windows Server 2008 R2 installed or PC with at least Microsoft Windows 7 installed (Windows 8.x and 10 work as well)
 2. Microsoft .NET Framework 4.5 or greater installed
 3. Local or domain Administrator account with password that will not change
@@ -49,6 +49,6 @@ EnviroMap Local Printer Application Requirements
 .. _Calibration Instructions:
 
 Calibration Instructions
---------------------------
+-------------------------
 1. If you are using the EnviroMap Cloud Printer Application, calibration should be performed by contacting support@enviromap.com. Please include your name, location, and printer that would would like to be calibrated.
 2. If you are using the EnviroMap Local Printer Application, download and unzip the calibration label, double-click the label, and a calibration label will print. (http://print.managementsolutionsofva.com/downloads/CalibrationLabel.zip)
