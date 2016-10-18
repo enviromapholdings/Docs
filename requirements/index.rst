@@ -50,5 +50,5 @@ EnviroMap Local Printer Application Requirements
 
 Calibration Instructions
 -------------------------
-1. If you are using the EnviroMap Cloud Printer Application, calibration should be performed by contacting support@enviromap.com. Please include your name, location, and printer that would would like to be calibrated.
+1. If you are using the EnviroMap Cloud Printer Application, calibration should be performed by contacting support@enviromap.com. Please include your name, location, and printer that you would like to be calibrated.
 2. If you are using the EnviroMap Local Printer Application, download and unzip the calibration label, double-click the label, and a calibration label will print. (http://print.managementsolutionsofva.com/downloads/CalibrationLabel.zip)
