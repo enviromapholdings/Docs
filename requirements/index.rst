@@ -9,6 +9,7 @@ The following contains the requirements for the various applications that make u
 	- `EnviroMap Cloud Printer Application Requirements`_
 	- `EnviroMap Local Printer Application Requirements`_
 	- `Calibration Instructions`_
+	- `Printer Firmware Update Instructions`_
 
 EnviroMap Application Requirements
 -----------------------------------
@@ -52,3 +53,14 @@ Calibration Instructions
 -------------------------
 1. If you are using the EnviroMap Cloud Printer Application, calibration should be performed by contacting support@enviromap.com. Please include your name, location, and printer that you would like to be calibrated.
 2. If you are using the EnviroMap Local Printer Application, download and unzip the calibration label, double-click the label, and a calibration label will print. (http://print.managementsolutionsofva.com/downloads/CalibrationLabel.zip)
+
+.. _Printer Firmware Update Instructions:
+
+Printer Firmware Update Instructions
+-------------------------
+1. Verify the model of your Zebra printer and download the latest firmware version below:
+	A. Zebra GX420d: http://print.managementsolutionsofva.com/downloads/v56-17-17z.exe
+	B. Zebra ZD410: http://print.managementsolutionsofva.com/downloads/v77-20-01z.exe
+2. Follow the detailed instructions for your printer:
+	A. Zebra GX420d: http://print.managementsolutionsofva.com/downloads/HowtoUpdateZebraGX420dFirmware.pdf
+	B. Zebra ZD410: http://print.managementsolutionsofva.com/downloads/HowtoUpdateZebraZD410Firmware.pdf
