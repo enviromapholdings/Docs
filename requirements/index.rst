@@ -44,8 +44,12 @@ EnviroMap Local Printer Application Requirements
 1. Server with at least Microsoft Windows Server 2008 R2 installed or PC with at least Microsoft Windows 7 installed (Windows 8.x and 10 work as well)
 2. EnviroMap Local Printer Application Installation Walkthrough downloaded (http://print.managementsolutionsofva.com/downloads/HowtoInstallEnviroMapLocalPrintClientUSB.pdf)
 3. Zebra Setup Utilities downloaded and installed (http://print.managementsolutionsofva.com/downloads/zsu-1191204.exe)
-4. EnviroMap Local Printer Application* downloaded and installed (http://print.managementsolutionsofva.com/downloads/zebraprinter.zip) *Utilizes Zebra Test Form Application (©2016 ZIH Corp)
+4. Choose either A or B below depending on the model of your Zebra printer
+	A. Zebra GX420d - EnviroMap Local Printer Application* downloaded and installed (http://print.managementsolutionsofva.com/downloads/zebraprinter.zip)
+	B. Zebra ZD410 - EnviroMap Local Printer Application* downloaded and installed (http://print.managementsolutionsofva.com/downloads/zebraprinternew.zip)
 5. If remote support is necessary, TeamViewer 10 Host downloaded and installed (http://get.teamviewer.com/enviromap) or TeamViewer 10 QuickSupport downloaded and running (http://download.teamviewer.com/download/version_10x/TeamViewerQS.exe). The 9-digit TeamViewer ID and password must also be provided to support@enviromap.com
+
+*Utilizes Zebra Test Form Application (©2016 ZIH Corp)
 
 .. _Calibration Instructions:
 
