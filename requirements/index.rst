@@ -10,6 +10,7 @@ The following contains the requirements for the various applications that make u
 	- `EnviroMap Local Printer Application Requirements`_
 	- `Calibration Instructions`_
 	- `Printer Firmware Update Instructions`_
+	- `Troubleshooting`_
 
 EnviroMap Application Requirements
 -----------------------------------
