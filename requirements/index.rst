@@ -71,4 +71,4 @@ Printer Firmware Update Instructions
 	
 Troubleshooting
 -------------------------
-- If the client is connected and the printer information seems correct, but there are still printer errors try creating a new client/key.
+- If the client is connected and the printer information seems correct, but cloud printing is still not working, make sure the cloud application is only running on one computer. A new client/key can be created if issues persist.
