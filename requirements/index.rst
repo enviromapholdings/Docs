@@ -68,3 +68,7 @@ Printer Firmware Update Instructions
 2. Follow the detailed instructions for your printer:
 	A. Zebra GX420d: http://print.managementsolutionsofva.com/downloads/HowtoUpdateZebraGX420dFirmware.pdf
 	B. Zebra ZD410: http://print.managementsolutionsofva.com/downloads/HowtoUpdateZebraZD410Firmware.pdf
+	
+Troubleshooting
+-------------------------
+- If the client is connected and the printer information seems correct, but there are still printer errors try creating a new client/key.
