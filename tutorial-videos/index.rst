@@ -12,6 +12,7 @@ The following videos will help teach the basics of using EnviroMap as an Analyst
    manage-maps
    manage-sampling-points
    plotting-sampling-points
+   schedule-samples
    email-notifications
    collect-samples
    print-barcodes
