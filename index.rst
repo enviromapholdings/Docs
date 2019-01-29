@@ -19,9 +19,4 @@ Topics
    
    overview/index
    requirements/index
-   getting-started-analyst/index
-   getting-started-administrator/index
-   features/index
-   tutorials/index
-   advanced/index
-
+   tutorial-videos/index

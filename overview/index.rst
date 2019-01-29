@@ -18,5 +18,3 @@ Key Features
 - Out of Limit Alerts
 - Mitigation / Reswab Tracking
 - Historical Result Importing
-
-Check out the :doc:`/features/index` page to see more of what EnviroMap can do.

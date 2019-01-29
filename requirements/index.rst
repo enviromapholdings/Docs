@@ -1,6 +1,10 @@
 Requirements & Download Links
 ==============================
 
+.. note::
+
+	The following information has yet to be updated from EnviroMap v5, so this information may be out of date!
+
 The following contains the requirements for the various applications that make up EnviroMap. If you have any questions please contact support@enviromap.com.  
 
 **In this article:**
