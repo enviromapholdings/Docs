@@ -10,7 +10,6 @@ The following contains the requirements for the various applications that make u
 	- `Zebra Browser Print Requirements`_
 	- `Calibration Instructions`_
 	- `Printer Firmware Update Instructions`_
-	- `Troubleshooting`_
 
 EnviroMap Application Requirements
 -----------------------------------
@@ -50,6 +49,7 @@ Zebra Browser Print Requirements
 	Zebra Browser Print Application must be installed for each user on each PC that will need to print.
 
 1. Download & install the Zebra Browser print application (https://www.zebra.com/us/en/products/software/barcode-printers/link-os/browser-print.html)
+
 
 2. The following printers are supported:
     - QLn series
