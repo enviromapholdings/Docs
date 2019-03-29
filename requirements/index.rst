@@ -14,7 +14,8 @@ The following contains the requirements for the various applications that make u
 
 EnviroMap Application Requirements
 -----------------------------------
-1. Google Chrome
+1. Windows 10
+2. Google Chrome
 
 Printer Requirements
 ---------------------
