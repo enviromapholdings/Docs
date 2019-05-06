@@ -124,13 +124,30 @@ User can add other sample properties like Region, Room, Line, etc.
 
 Example of a Sample Import File: 
 
+.. image:: 14.png
+
 
 Next Navigate to the Sampling Points blade
 
+.. image:: 15.png
+
 Once the blade is open, click on the third ellipses to open the menu and select Import from file: 
+
+.. image:: 16.png
+
 Click on the arrow to Choose a File
+
+.. image:: 17.png
+
 Select the file from the file selection window and hit Open.
+
 This will open a preview of the samples:
+
+.. image:: 18.png
+
 If they look right, click the import at the top.
 The samples should be imported into the folder with all the relevant parameters:
+
+.. image:: 19.png
+
 You can then add the sample points to the map. 
