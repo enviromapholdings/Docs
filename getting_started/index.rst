@@ -8,6 +8,7 @@ EnviroMap v6 can be accessed at the following link - https://app.enviromap.com
 
 This will open a login window: 
 
+.. image:: 1.png
 
 
 
@@ -17,9 +18,13 @@ EnviroMap will open to your dashboard.
 
 To update your password, click on the person icon in the upper-right corner and select Change Password. 
 
+.. image:: 2.png
+
 
 
 This will send a change password email to your email account.  Open the email and click Confirm. 
+
+.. image:: 3.png
 
 
 Enter a new password to change your login credentials. 
@@ -35,6 +40,8 @@ The menu can be expanded by clicking menu icon on the top.
 It can be collapsed by clicking on arrow.  
 
 Additionally, the ellipses icon at the bottom of the menu allows User to open an expanded view and select the specific menu item that will allow User to do a variety of functions in the applications.
+
+.. image:: 4.png
 
 These functions range from creating Sampling Points to Printing labels.
 
