@@ -8,9 +8,13 @@ User can remove the required Samples from the Collection either individually by 
 To delete multiple select the required Samples, then go the ellipsis and then click on the Delete Samples.
 Clicking on the Recycle Bin will send the Samples to the Recycle Bin, from where user can add it back to the application if needed.
 
+.. image:: 1.png
+
 Changing Scheduled Date 
 -----------------------
-To Change dates click on the New Collection name on the upper left. Enter description as required.Select Start Date and End Date along with the timings. Once this is done, click on Confirm.
+To Change dates click on the New Collection name on the upper left. Enter description as required.Select Start Date and End Date along with the timings. Once this is done, click on Confirm.
+
+.. image:: 2.png
 
 
 Check for the required details and finally hit the Save button.This will create the Collection with required details.This Collection will now be added to the Calendar
@@ -19,17 +23,25 @@ On Demand Collections
 ---------------------
 On Demand collections can be created by clicking the green plus icon on the right hand side of the screen:
 
+.. image:: 3.png
+
+.. image:: 4.png
 
 To add samples to the on demand collection, User can select samples by clicking on the Select Samples. This will open the sample selection blade. User can select the samples required in the collection. 
+
+.. image:: 5.png
 
 
 The samples can be added as individual samples or as a composite, and will appear in  the collection blade. Properties and tests can be assigned to the samples. 
 
 User can also add unmonitored sites (samples that are not predefined as a sampling point) by selecting Add sample
 
+.. image:: 6.png
+
 
 User can  click on  the New Sample to update the description. 
 
 To schedule the on demand collection, click on the New Collection and the Date
+.. image:: 7.png
 
 This will open the scheduling blade. The Description can be updated in this blade and the collection scheduled. 
