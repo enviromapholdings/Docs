@@ -8,7 +8,7 @@ EnviroMap v6 can be accessed at the following link - https://app.enviromap.com
 
 This will open a login window: 
 
-.. image:: 1.png
+.. image:: 1.PNG
 
 
 
@@ -18,7 +18,7 @@ EnviroMap will open to your dashboard.
 
 To update your password, click on the person icon in the upper-right corner and select Change Password. 
 
-.. image:: 2.png
+.. image:: 2.PNG
 
 
 
