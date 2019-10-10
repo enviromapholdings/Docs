@@ -44,30 +44,25 @@ EnviroMap Local Printer Application Requirements
 
 Zebra Browser Print Requirements
 -------------------------------------------------
-.. attention::
 
-	Zebra Browser Print Application must be installed for each user on each PC that will need to print.
 
-1. Download & install the Zebra Browser print application (https://www.zebra.com/us/en/products/software/barcode-printers/link-os/browser-print.html)
-
-.. attention:: 
-	Steps to install Zebra Browser Print:
-		1. Check that Chrome is the Default Browser
-		2. In Chrome, navitgate to chrome://flags/#allow-insecure-localhost and select Enable
-		3. Restart Chrome
-		4. Set up printer
+Steps to install Zebra Browser Print:
+		
+		1. Set up printer
 			1. Plug in printer to power and computer
 			2. Make sure roll of labels is in correctly
 			3. Turn on the printer
-			4. Hold pause and cancel buttons down simultaneously for 2 seconds to activate the printer's auto-calibration.
-		5. Download the Browser Print application found `here <https://www.zebra.com/us/en/products/software/barcode-printers/link-os/browser-print.html>`_.
-		6. Follow the installation instructions for Browser Print found `here <https://www.zebra.com/content/dam/zebra_new_ia/en-us/solutions-verticals/product/Software/Printer%20Software/Link-OS/browser-print/software-browser-print-user-guide-en-us.pdf>`_.
+		2. Hold pause and cancel buttons down simultaneously for 2 seconds to activate the printer's auto-calibration.
+		3. Check that Chrome is the Default Browser
+		4. Download the Browser Print application found `here <https://www.zebra.com/us/en/products/software/barcode-printers/link-os/browser-print.html>`_.
+		5. Follow the installation instructions for Browser Print found `here <https://www.zebra.com/content/dam/zebra_new_ia/en-us/solutions-verticals/product/Software/Printer%20Software/Link-OS/browser-print/software-browser-print-user-guide-en-us.pdf>`_.
 			1. If the text shown in step 10 does not appear in the browser, you may have to click on the "lock" icon found to the left of the web address to add the certificate
 			2. Again, an unlikely scenario, but you can follow the instructions found in the answer `here <https://superuser.com/questions/104146/add-permanent-ssl-certificate-exception-in-chrome-linux>`_, which may help grant access to the browser print certificate.
-		7. Open browser print as shown in the installation instructions page 8.
-		8. If the printer is not shown in the default devices, follow the instructions on pages 8 and 9 to add the printer.
+		6. Open browser print as shown in the installation instructions page 8.
+		7. If the printer is not shown in the default devices, follow the instructions on pages 8 and 9 to add the printer.
 			1. note: the printer must be plugged in and turned on for the Browser Print application to detect it.
-		9.The printer should now be installed and detected by Browser print. you can test Enviromap functionality by going to any collection and selecting Print -> Print Labels. If the printer is the default device in browser print, it should show up in the print labels blade.
+		8.The printer should now be installed and detected by Browser print. you can test Enviromap functionality by going to any collection and selecting Print -> Print Labels. If the printer is the default device in browser print, it should show up in the print labels blade.
+.. attention:: 
 2. The following printers are supported:
     - QLn series
     - ZT200™ series
