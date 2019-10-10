@@ -45,41 +45,40 @@ EnviroMap Local Printer Application Requirements
 Zebra Browser Print Requirements
 -------------------------------------------------
 
-
 Steps to install Zebra Browser Print:
 		
-		1. Set up printer
-			1. Plug in printer to power and computer
-			2. Make sure roll of labels is in correctly
-			3. Turn on the printer
-		2. Hold pause and cancel buttons down simultaneously for 2 seconds to activate the printer's auto-calibration.
-		3. Check that Chrome is the Default Browser
-		4. Download the Browser Print application found `here <https://www.zebra.com/us/en/products/software/barcode-printers/link-os/browser-print.html>`_.
-		5. Follow the installation instructions for Browser Print found `here <https://www.zebra.com/content/dam/zebra_new_ia/en-us/solutions-verticals/product/Software/Printer%20Software/Link-OS/browser-print/software-browser-print-user-guide-en-us.pdf>`_.
-			1. If the text shown in step 10 does not appear in the browser, you may have to click on the "lock" icon found to the left of the web address to add the certificate
-			2. Again, an unlikely scenario, but you can follow the instructions found in the answer `here <https://superuser.com/questions/104146/add-permanent-ssl-certificate-exception-in-chrome-linux>`_, which may help grant access to the browser print certificate.
-		6. Open browser print as shown in the installation instructions page 8.
-		7. If the printer is not shown in the default devices, follow the instructions on pages 8 and 9 to add the printer.
-			1. note: the printer must be plugged in and turned on for the Browser Print application to detect it.
-		8.The printer should now be installed and detected by Browser print. you can test Enviromap functionality by going to any collection and selecting Print -> Print Labels. If the printer is the default device in browser print, it should show up in the print labels blade.
+1. Set up printer
+	1. Plug in printer to power and computer
+	2. Make sure roll of labels is in correctly
+	3. Turn on the printer
+2. Hold pause and cancel buttons down simultaneously for 2 seconds to activate the printer's auto-calibration.
+3. Check that Chrome is the Default Browser
+4. Download the Browser Print application found `here <https://www.zebra.com/us/en/products/software/barcode-printers/link-os/browser-print.html>`_.
+5. Follow the installation instructions for Browser Print found `here <https://www.zebra.com/content/dam/zebra_new_ia/en-us/solutions-verticals/product/Software/Printer%20Software/Link-OS/browser-print/software-browser-print-user-guide-en-us.pdf>`_.
+	1. If the text shown in step 10 does not appear in the browser, you may have to click on the "lock" icon found to the left of the web address to add the certificate
+	2. Again, an unlikely scenario, but you can follow the instructions found in the answer `here <https://superuser.com/questions/104146/add-permanent-ssl-certificate-exception-in-chrome-linux>`_, which may help grant access to the browser print certificate.
+6. Open browser print as shown in the installation instructions page 8.
+7. If the printer is not shown in the default devices, follow the instructions on pages 8 and 9 to add the printer.
+	1. note: the printer must be plugged in and turned on for the Browser Print application to detect it.
+8.The printer should now be installed and detected by Browser print. you can test Enviromap functionality by going to any collection and selecting Print -> Print Labels. If the printer is the default device in browser print, it should show up in the print labels blade.
 .. attention:: 
-2. The following printers are supported:
-    - QLn series
-    - ZT200™ series
-    - ZT400™ series
-    - ZD500™ series
-    - ZD400™ series
-    - LP2824+
-    - GK420
-    - GX420
+	1. The following printers are supported:
+	    - QLn series
+	    - ZT200™ series
+	    - ZT400™ series
+	    - ZD500™ series
+	    - ZD400™ series
+	    - LP2824+
+	    - GK420
+	    - GX420
 
-2. The following types of connectivity are supported:
-    - USB
-    - Network
+	2. The following types of connectivity are supported:
+	    - USB
+	    - Network
 
-3. The application supports the following Operating Systems & Browsers:
-    - Windows 7, Windows 10 and Mac OSX
-    - Chrome v51 or later
+	3. The application supports the following Operating Systems & Browsers:
+	    - Windows 7, Windows 10 and Mac OSX
+	    - Chrome v51 or later
 
 .. _Calibration Instructions:
 
