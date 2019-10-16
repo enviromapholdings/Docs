@@ -53,7 +53,7 @@ Steps to install Zebra Browser Print:
 	3. Turn on the printer
 2. Hold pause and cancel buttons down simultaneously for 2 seconds to activate the printer's auto-calibration.
 3. Check that Chrome is the Default Browser
-4. Download the Browser Print application found `here <https://www.zebra.com/us/en/products/software/barcode-printers/link-os/browser-print.html>`_.
+4. Download the Browser Print application found `here <https://www.zebra.com/us/en/support-downloads/eula/browser-print-eula.html>`_.
 5. Follow the installation instructions for Browser Print found `here <https://www.zebra.com/content/dam/zebra_new_ia/en-us/solutions-verticals/product/Software/Printer%20Software/Link-OS/browser-print/software-browser-print-user-guide-en-us.pdf>`_.
 	1. If the text shown in step 10 does not appear in the browser, you may have to click on the "lock" icon found to the left of the web address to add the certificate
 	2. Again, an unlikely scenario, but you can follow the instructions found in the answer `here <https://superuser.com/questions/104146/add-permanent-ssl-certificate-exception-in-chrome-linux>`_, which may help grant access to the browser print certificate.
