@@ -19,4 +19,5 @@ Topics
    
    overview/index
    requirements/index
+   user-guides/index
    tutorial-videos/index

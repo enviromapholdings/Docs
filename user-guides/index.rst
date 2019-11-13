@@ -1,0 +1,15 @@
+User Guides
+---------------
+- `EnviroMap v6 User Guide <https://docs.google.com/document/d/1VTSagQm41w37HpL04dQEPsIt8bRMaKiIDZv4tfCfq5o/edit?usp=sharing>`_
+- `Adding Results <https://docs.google.com/document/d/1RMLRDO--qXRqzdjh0lN18kSpl4C2_etta5gjtm8Jjhc/edit?usp=sharing>`_
+- `Randomized Collection Schedule <https://docs.google.com/document/d/1qyxI8RUJA-Q7Ruqh25sRzl5QyfWM939NYcxC1CE2YYQ/edit?usp=sharing>`_
+- `Adding Composite Sites <https://docs.google.com/document/d/1D1nzTX-HeoDtyMkkHve9KaC92OT1sjHSNH_ukjYccuw/edit?usp=sharing>`_
+- `Managing Sampling Points <https://docs.google.com/document/d/1poTJ-5_9ZJ3KAUGCheqHpt_6z7GvE7R1Gw7g85qWQHk/edit?usp=sharing>`_
+- `Adding a New Sampling Plan <https://docs.google.com/document/d/1qP96Hshc-CKDn02XKZ8klQJWDeACHMrcvT1XXtmC6T0/edit?usp=sharing>`_
+- `Adding Results <https://docs.google.com/document/d/1Mn9tl8LyTNGZA94bkVHLRrDTqcvuJsllxxvusl4aQes/edit?usp=sharing>`_
+- `How to Submit Samples in EnviroMap: Step by Step Walkthrough <https://docs.google.com/document/d/17GwSkQn1xgJhRFq79kZ-QyFxU7Jua4c9Nb70JOuGsRk/edit?usp=sharing>`_
+- `Mitigations <https://docs.google.com/document/d/1qOxb8dCAPl2byACnatRAxep4v2woK1C25wiAR0LyvyI/edit?usp=sharing>`_
+- `Tests and Test Limits <https://docs.google.com/document/d/1AfhADogc5D9kvloqTjE-97szBApFGnXQXvPuEd3brl0/edit?usp=sharing>`_
+- `User Management <https://docs.google.com/document/d/1jdVEvIKUzUAwHh7NAizwNIsk8cco5k3In0WmzicjRZ0/edit?usp=sharing>`_
+- `Results Download <https://docs.google.com/document/d/1iQkzUyW35h8_wEjBzxiLE83j3KxSXrBiszg82oqoeS8/edit?usp=sharing>`_
+- `Creating On Demand Collections in EnviroMap: Step by Step Walkthrough <https://docs.google.com/document/d/158PwLh4P0o5oEZlRCbx6QiILNHbIZ1LdGoGVNVa9TPY/edit?usp=sharing>`_
